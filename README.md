@@ -10,7 +10,7 @@ npm install -g json-server
 ```bash
 json-server --watch SampleData.json --port 3005
 ```
-## 4. run react-crud application
+## 4. run application
 ```bash
 yarn start
 ```
